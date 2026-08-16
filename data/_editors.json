@@ -1,26 +1,26 @@
 [
     {
-        "role": "owner",
+        "role": "Hamza",
         "name": "List Owner",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "admin",
+        "role": "Hamza",
         "name": "List Admin",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "helper",
+        "role": "Flamewall",
         "name": "List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "trial",
+        "role": "Hamza",
         "name": "Trial List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "dev",
+        "role": "Hamza",
         "name": "List Coder",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
